@@ -6,8 +6,7 @@
 			"hidden": true,
 			"generator": "Ninja",
 			"cacheVariables": {
-				"BUILD_TESTING": "ON",
-				"TESTING_TOP_LEVEL_ONLY": "ON"
+				"BUILD_TESTING": "ON"
 			}
 		},
 		{
